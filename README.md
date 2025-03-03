@@ -75,7 +75,7 @@ Chatbot-for-business/
 ---
 
 ## 🎨 **Screenshots**
-(Add your chatbot UI screenshots here to make the repo visually appealing.)
+
 
 ---
 
@@ -102,10 +102,4 @@ To deploy this chatbot on a server:
 This is an open-source project! Feel free to fork, modify, and improve it. 🚀
 
 ---
-
-## 📬 **Contact**
-🔹 **GitHub**: [Your GitHub Profile](https://github.com/YOUR_USERNAME)  
-🔹 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/YOUR_USERNAME)  
-
-🚀 **Now you're ready to push this to GitHub and impress recruiters!** 🎉
 
