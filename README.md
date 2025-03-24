@@ -71,12 +71,6 @@ Chatbot-for-business/
 │
 └── README.md             # Project Documentation
 ```
-
----
-
-## 🎨 **Screenshots**
-
-
 ---
 
 ## 🌎 **Customizing Your AI Model**
